@@ -173,6 +173,48 @@
         "faq-12",
         "faq-13"
       ]
+    },
+    {
+      "id": "vid-8",
+      "title": "Function Transformations: Horizontal and Vertical Translations",
+      "url": "https://youtu.be/CESXLJaq6Mk",
+      "description": "Shifts a graph up, down, left, and right, and shows why f(x - h) moves the graph right even though there is a minus sign.",
+      "category": "basic-moves",
+      "relatedFaqs": [
+        "faq-1",
+        "faq-2"
+      ]
+    },
+    {
+      "id": "vid-9",
+      "title": "Function Transformations: Reflections Across the x-axis and y-axis",
+      "url": "https://youtu.be/iFYX3MvLt4M",
+      "description": "Reflects a graph across the x-axis with -f(x) and across the y-axis with f(-x), and compares what each does to the points.",
+      "category": "basic-moves",
+      "relatedFaqs": [
+        "faq-3"
+      ]
+    },
+    {
+      "id": "vid-10",
+      "title": "Functions Transformations: A Summary",
+      "url": "https://youtu.be/An29CALYjAA",
+      "description": "Summarizes shifts, reflections, stretches, and compressions in one place, with how each shows up in the equation.",
+      "category": "combined-transformations",
+      "relatedFaqs": [
+        "faq-10"
+      ]
+    },
+    {
+      "id": "vid-11",
+      "title": "Graphing Multiple Function Transformations - Part 2 of 2",
+      "url": "https://youtu.be/FG-cSDmiMiU",
+      "description": "Graphs functions with several transformations applied, in order, by moving key points one step at a time.",
+      "category": "combined-transformations",
+      "relatedFaqs": [
+        "faq-10",
+        "faq-8"
+      ]
     }
   ],
   "apps": [

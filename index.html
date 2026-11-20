@@ -646,11 +646,12 @@ function renderVideos() {
   }
 
   const categoryLabels = {
+    'basic-moves': { title: 'Shifts & Reflections', desc: 'The basic moves: shifting a graph and reflecting it across an axis' },
     'combined-transformations': { title: 'Combining Multiple Transformations', desc: 'Start here — graphing functions with several transformations applied together' },
     'writing-rules': { title: 'Writing the Transformed Equation', desc: 'Translating a word description of transformations into an equation' },
     'matching-reflecting': { title: 'Matching & Reflecting', desc: 'Matching a transformed graph to its equation, including reflections' }
   };
-  const categoryOrder = ['combined-transformations', 'writing-rules', 'matching-reflecting'];
+  const categoryOrder = ['basic-moves', 'combined-transformations', 'writing-rules', 'matching-reflecting'];
 
   categoryOrder.forEach(cat => {
     const vids = DATA.videos.filter(v => v.category === cat);
